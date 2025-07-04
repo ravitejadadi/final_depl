@@ -674,7 +674,7 @@ Present this as a JSON array of objects with a single message field:
                     }
                 };
 
-                const apiKey = ""; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
+                const apiKey = "AIzaSyDOumal9e1oWWxh8SQIsNQYZfIvhs5C_Rg"; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
                 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
                 if (!apiKey) {
@@ -835,7 +835,7 @@ Question: "${question}"`;
                     }
                 };
 
-                const apiKey = ""; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
+                const apiKey = "AIzaSyDOumal9e1oWWxh8SQIsNQYZfIvhs5C_Rg"; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
                 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
                 if (!apiKey) {
@@ -995,7 +995,7 @@ Essay/SOP Draft: "${inputText}"`;
                     }
                 };
 
-                const apiKey = ""; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
+                const apiKey = "AIzaSyDOumal9e1oWWxh8SQIsNQYZfIvhs5C_Rg"; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
                 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
                 if (!apiKey) {
@@ -1118,7 +1118,7 @@ Format the checklist clearly using markdown headings and bullet points. Be speci
                     }
                 };
 
-                const apiKey = ""; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
+                const apiKey = "AIzaSyDOumal9e1oWWxh8SQIsNQYZfIvhs5C_Rg"; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
                 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
                 if (!apiKey) {
