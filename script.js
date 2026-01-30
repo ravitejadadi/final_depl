@@ -674,7 +674,7 @@ Present this as a JSON array of objects with a single message field:
                     }
                 };
 
-                const apiKey = "AIzaSyDOumal9e1oWWxh8SQIsNQYZfIvhs5C_Rg"; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
+                const apiKey = "a191c890-11f5-4421-a3c9-53f9a67e5549"; // <--- !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY HERE !!!
                 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
                 if (!apiKey) {
